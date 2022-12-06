@@ -1,7 +1,7 @@
 import React from "react";
 import { projects } from "../data";
 
-export default function Projects() {
+function Projects() {
     return (
         <section id="projects">
             <div className="container px-5 py-10 mx-auto text-center lg:px-40">
@@ -38,3 +38,4 @@ export default function Projects() {
         </section>
     );
 }
+export default Projects;
