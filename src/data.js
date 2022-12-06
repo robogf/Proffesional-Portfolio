@@ -1,9 +1,11 @@
+
+
 export const projects = [
     {
         title: "Get Route",
         subtitle: "Node.js, javascript, handlebars, express, sequelize, mysql",
         description:"Get route is a fullstack application which allows users to emulate a shopping site. Users can create an account, login, and add items to their cart. Users can also view their order history. The application uses Node.js, javascript, handlebars, express, sequelize, and mysql.",
-        image: "./getroute.png",
+        image:"./buy-sell-product.gif",
         link: "https://get-route.herokuapp.com/"
     },
     {
@@ -17,14 +19,14 @@ export const projects = [
         title: "Employee Tracker",
         subtitle: "Node.js, javascript, mysql",
         description:"Employee Tracker is a command line application which allows users to view and manage the departments, roles, and employees in a company. The application uses Node.js, javascript, and mysql.",
-        image: "./employeetracker.png",
+        image: "./javascript.jpg",
         link: "https://github.com/robogf/Employee-Tracker"
     },
     {
         title: "Password Generator",
         subtitle: "Html, css, javascript",
         description:"Password Generator is a web application which allows users to generate a random password based on criteria they’ve selected. The application uses html, css, and javascript.",
-        image: "./passwordgenerator.png",
+        image: "./password.png",
         link: "https://angelmatias.github.io/Password-Generator/"
     }
 ]

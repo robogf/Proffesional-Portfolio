@@ -1,5 +1,4 @@
-import React from "react"; 
-
+import React from "react";
 function About() {
   return (
     <section id="about">
@@ -20,10 +19,12 @@ function About() {
         </div>
         <div>
         <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="./coding.svg"
-          />
+            className="rounded"
+            alt='selfie'
+            src="./selfie.jpg"
+          >
+
+          </img>
         </div>
         </div>
       </div>
