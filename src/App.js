@@ -3,6 +3,7 @@ import About from "./components/About";
 import Projects from "./components/Projects";
 import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
+import Contact from "./components/Contact";
 export default function App() {
   return (
    <main className="text-gray-500 bg-sky-900 body-font">
@@ -10,7 +11,7 @@ export default function App() {
     <About />
     <Projects />
     <Skills />
-
+    <Contact />
    </main>
   );
 }
