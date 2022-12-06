@@ -28,3 +28,47 @@ export const projects = [
         link: "https://angelmatias.github.io/Password-Generator/"
     }
 ]
+
+export const skills = [
+    {
+        title: "HTML",
+    },
+    {
+        title: "CSS",
+    },
+    {
+        title: "Javascript",
+    },
+    {
+        title: "Node.js",
+
+    },
+    {
+        title: "React",
+    },
+    {
+        title: "Express.js",
+
+    },
+    {
+        title: "Sequelize",
+    },
+    {
+        title: "MySQL",
+    },
+    {
+        title: "MongoDB",
+    },
+    {
+        title: "Chart.js",
+    },
+    {
+        title: "API",
+    },
+    {
+        title: "Handlebars",
+    },
+    {
+        title: "Git",
+    }
+]
